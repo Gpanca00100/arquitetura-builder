@@ -34,3 +34,6 @@ Certifique-se de que o **Node.js** e o **Git** estão instalados. Instale o Type
 
 ```bash
 npm install -g typescript ts-node
+
+## Segundo trabalho de Arquitetura de Software:
+
